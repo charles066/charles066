@@ -7,11 +7,11 @@
  
  ###  * Formado em Analise e Desenvolvimento de Sistemas  :tada:
  
-  <img src="https://www.training.com.au/wp-content/uploads/career-in-technology-feature.png"/>
+  <img src="https://p4.wallpaperbetter.com/wallpaper/144/222/411/code-rainbows-lights-colorful-wallpaper-preview.jpg" width="1024" height="300"/>
  
  ------------------------------------------------------------------
  
-- 🔭 Atualmente estou trabalhando na empresa Burger king (Sipervisor de Operação)
+- 🔭  trabalhando na empresa Burger king (Supervisor de Operação)
  
 -  :mortar_board: Atualmente estou aprendendo Html , Css e JavaScript .
 
