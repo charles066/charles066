@@ -6,16 +6,19 @@
  ###   * Bem vindo ao meu perfil GitHub 👋
  
  ###  * Formado em Analise e Desenvolvimento de Sistemas  :tada:
+
+ ###  * Estudante de Engenharia da computaçâo 3ºsemestre  :tada:
+ 
  
   <img src="https://p4.wallpaperbetter.com/wallpaper/144/222/411/code-rainbows-lights-colorful-wallpaper-preview.jpg" width="1024" height="300"/>
  
  ------------------------------------------------------------------
  
-- 🔭  trabalhando na empresa Burger king (Supervisor de Operação)
+- 🔭  trabalhando na empresa Burger king ( Tecnico de manutenção)
  
 -  :mortar_board: Atualmente estou aprendendo Html , Css e JavaScript .
 
-- 👯 Estou procurando colaborar em Full-stack
+- 👯 Estou procurando colaborar em desenvolvimento front-end
 
 - 📫 Como entrar em contato comigo: +55(11)99931-3023
 
