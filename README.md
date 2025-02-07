@@ -7,7 +7,7 @@
  
  ###  * Formado em Analise e Desenvolvimento de Sistemas  :tada:
 
- ###  * Estudante de Engenharia da computaçâo 3ºsemestre  :tada:
+ ###  * Estudante de Engenharia da computaçâo 4ºsemestre  :tada:
  
  
   <img src="https://p4.wallpaperbetter.com/wallpaper/144/222/411/code-rainbows-lights-colorful-wallpaper-preview.jpg" width="1024" height="300"/>
