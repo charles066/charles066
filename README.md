@@ -14,7 +14,7 @@
  
  ------------------------------------------------------------------
  
-- 🔭  trabalhando na empresa Burger king ( Tecnico de manutenção)
+- 🔭 
  
 -  :mortar_board: Atualmente estou aprendendo Html , Css e JavaScript .
 
